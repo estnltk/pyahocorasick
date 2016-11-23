@@ -11,6 +11,9 @@
 #ifndef PYAHCORASICK_WINDOWS_H__
 #define PYAHCORASICK_WINDOWS_H__
 
+typedef __int32 int32_t;
+typedef unsigned __int32 uint32_t;
+
 typedef unsigned char       uint8_t;
 typedef short unsigned int  uint16_t;
 
